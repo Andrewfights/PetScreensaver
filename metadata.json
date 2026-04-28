@@ -1,0 +1,11 @@
+{
+  "name": "Pet Gatekeeper",
+  "description": "Upload your pet, remove the background, and let them cover your screen when it's time to take a break.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Image Processing",
+    "Timer Management"
+  ]
+}
